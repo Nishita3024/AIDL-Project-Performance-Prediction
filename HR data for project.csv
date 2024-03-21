@@ -1,0 +1,1018 @@
+employee_id,department,region,education,gender,recruitment_channel,no_of_trainings,age,previous_year_rating,length_of_service,KPIs_met_more_than_80,awards_won,avg_training_score,no. of projects completed
+100001,Technology,region_26,Bachelors,m,sourcing,1,24,2,1,1,0,77,5
+100002,HR,region_4,Bachelors,f,other,1,31,3,5,0,0,51,0
+100003,Sales & Marketing,region_13,Bachelors,m,other,1,31,1,4,0,0,47,0
+100004,Procurement,region_2,Bachelors,f,other,3,31,2,9,0,0,65,0
+100005,Finance,region_29,Bachelors,m,sourcing,1,30,4,7,0,0,61,0
+100006,Procurement,region_7,Bachelors,m,sourcing,1,36,3,2,0,0,68,0
+100007,Finance,region_2,Bachelors,m,other,1,33,5,3,1,0,57,5
+100008,Analytics,region_22,Bachelors,m,sourcing,2,36,3,3,0,0,85,1
+100009,Technology,region_7,Masters & above,m,other,1,51,4,11,0,0,75,0
+100010,Technology,region_22,Bachelors,m,sourcing,1,29,5,2,1,0,76,5
+100011,Sales & Marketing,region_16,Bachelors,m,sourcing,2,40,5,12,1,0,50,5
+100012,Sales & Marketing,region_17,Masters & above,m,sourcing,1,40,3,10,0,0,46,0
+100013,Sales & Marketing,region_4,Masters & above,f,other,1,34,3,4,0,0,52,0
+100014,Analytics,region_24,Bachelors,m,other,1,37,3,10,0,0,82,1
+100015,Operations,region_11,Bachelors,m,sourcing,1,30,5,6,1,0,58,5
+100016,Sales & Marketing,region_7,Bachelors,m,sourcing,1,31,4,4,1,0,47,5
+100017,Operations,region_27,Bachelors,f,sourcing,1,26,5,3,0,0,56,0
+100018,Sales & Marketing,region_17,Bachelors,m,sourcing,1,40,5,6,1,0,50,5
+100019,Procurement,region_7,Bachelors,f,other,1,49,3,7,1,0,64,5
+100020,Procurement,region_27,Bachelors,m,other,1,27,2,5,0,0,65,0
+100021,Sales & Marketing,region_9,Masters & above,m,sourcing,1,37,5,3,0,0,47,0
+100022,Technology,region_17,Bachelors,m,sourcing,1,25,3,1,0,0,80,1
+100023,Technology,region_29,Masters & above,m,sourcing,1,30,1,3,0,0,83,1
+100024,Procurement,region_4,Masters & above,m,other,1,41,3,4,0,0,76,0
+100025,Finance,region_20,Bachelors,f,other,1,29,4,6,1,0,58,5
+100026,Operations,region_20,Bachelors,m,other,1,33,3,7,1,1,62,5
+100027,Sales & Marketing,region_17,Masters & above,m,sourcing,1,34,4,6,1,0,50,5
+100028,Analytics,region_13,Bachelors,m,sourcing,1,34,3,3,1,0,87,10
+100029,Operations,region_22,Bachelors,m,other,1,52,1,10,0,0,61,0
+100030,Sales & Marketing,region_34,Bachelors,m,sourcing,1,30,2,3,0,0,50,0
+100031,Analytics,region_2,Masters & above,m,sourcing,2,34,4,7,0,0,87,1
+100032,Sales & Marketing,region_2,Bachelors,m,sourcing,2,43,1,14,0,0,52,0
+100033,Technology,region_17,Bachelors,m,other,1,29,3,1,1,0,85,10
+100034,Sales & Marketing,region_2,Bachelors,f,sourcing,1,35,3,3,1,0,52,5
+100035,Technology,region_22,Masters & above,m,other,4,40,3,12,0,0,77,0
+100036,Technology,region_23,Bachelors,m,sourcing,2,33,4,9,0,0,83,1
+100037,Sales & Marketing,region_8,Masters & above,m,other,1,30,3,2,1,0,55,5
+100038,Sales & Marketing,region_14,Bachelors,f,sourcing,2,42,1,3,1,0,46,5
+100039,Sales & Marketing,region_22,Bachelors,m,sourcing,3,29,1,3,0,0,51,0
+100040,Analytics,region_22,Bachelors,m,other,1,25,1,1,0,0,88,1
+100041,Analytics,region_26,Bachelors,m,sourcing,1,26,5,4,1,0,90,10
+100042,Sales & Marketing,region_31,Bachelors,m,other,1,27,2,3,0,0,52,0
+100043,Operations,region_13,Bachelors,m,other,1,34,5,5,1,0,66,5
+100044,Sales & Marketing,region_31,Bachelors,m,sourcing,1,26,4,5,0,0,45,0
+100045,Technology,region_2,Bachelors,f,other,1,52,5,18,0,0,80,1
+100046,Sales & Marketing,region_7,Bachelors,m,other,1,26,5,2,1,0,54,5
+100047,Analytics,region_34,Bachelors,m,sourcing,3,27,3,2,0,0,83,1
+100048,Analytics,region_22,Masters & above,m,other,1,31,2,1,1,0,84,10
+100049,Operations,region_23,Bachelors,m,other,1,33,4,8,1,0,59,5
+100050,Sales & Marketing,region_2,Bachelors,m,sourcing,1,36,5,4,1,0,49,5
+100051,Technology,region_2,Masters & above,f,other,1,57,1,26,0,0,76,0
+100052,Sales & Marketing,region_2,Bachelors,m,other,2,46,1,7,0,0,49,0
+100053,Sales & Marketing,region_19,Bachelors,m,sourcing,1,30,2,3,0,0,50,0
+100054,Operations,region_2,Below Secondary,m,other,1,21,1,1,1,0,56,5
+100055,Technology,region_4,Bachelors,m,sourcing,1,26,1,1,1,0,85,10
+100056,Technology,region_7,Masters & above,m,sourcing,2,40,3,6,0,0,81,1
+100057,Technology,region_23,Bachelors,m,other,2,32,3,6,0,0,79,0
+100058,Finance,region_22,Masters & above,f,sourcing,1,36,3,2,1,0,61,5
+100059,Legal,region_2,Bachelors,m,other,1,28,2,2,0,0,62,0
+100060,Operations,region_22,Bachelors,f,sourcing,1,29,5,4,1,0,56,5
+100061,Sales & Marketing,region_2,Masters & above,m,sourcing,1,38,4,4,0,0,49,0
+100062,Technology,region_4,Bachelors,m,other,1,31,2,4,1,0,78,5
+100063,Sales & Marketing,region_22,Bachelors,m,other,1,29,1,4,0,0,46,0
+100064,Technology,region_5,Below Secondary,m,other,1,23,1,1,0,0,81,1
+100065,Operations,region_26,Bachelors,m,sourcing,1,41,4,6,1,0,60,5
+100066,Procurement,region_2,Bachelors,m,other,1,29,5,2,1,0,74,5
+100067,Sales & Marketing,region_28,Bachelors,f,other,1,29,2,5,0,0,51,0
+100068,Operations,region_2,Bachelors,m,sourcing,1,28,3,3,0,0,59,0
+100069,Analytics,region_29,Bachelors,m,other,2,28,5,4,1,0,84,10
+100070,Procurement,region_22,Bachelors,f,sourcing,1,31,1,6,0,0,64,0
+100071,Technology,region_4,Masters & above,m,sourcing,1,36,3,4,0,0,76,0
+100072,Operations,region_2,Bachelors,m,other,3,26,3,4,1,0,57,5
+100073,Technology,region_15,Bachelors,m,other,1,29,3,2,0,0,84,1
+100074,Analytics,region_7,Bachelors,m,sourcing,1,32,4,6,0,0,85,1
+100075,Sales & Marketing,region_2,Bachelors,f,other,1,40,1,10,0,0,50,0
+100076,Analytics,region_22,Bachelors,m,sourcing,2,38,4,13,0,0,87,1
+100077,Analytics,region_4,Bachelors,m,other,1,42,5,11,1,0,80,10
+100078,Procurement,region_29,Masters & above,f,other,1,33,3,6,0,0,68,0
+100079,Analytics,region_2,Bachelors,m,other,1,31,5,5,1,0,92,10
+100080,Operations,region_3,Masters & above,f,sourcing,1,35,3,4,0,0,58,0
+100081,HR,region_2,Masters & above,f,sourcing,1,58,5,6,1,0,51,5
+100082,Sales & Marketing,region_28,Bachelors,f,sourcing,1,26,2,4,0,0,48,0
+100083,HR,region_29,Bachelors,f,sourcing,1,33,3,8,1,0,49,5
+100084,Technology,region_7,Bachelors,m,sourcing,1,30,3,3,1,0,80,10
+100085,Technology,region_13,Masters & above,f,sourcing,1,43,3,12,0,0,79,0
+100086,HR,region_17,Bachelors,f,sourcing,1,31,4,7,0,0,48,0
+100087,Analytics,region_29,Bachelors,m,sourcing,1,32,3,5,1,0,86,10
+100088,Technology,region_2,Masters & above,f,sourcing,2,57,2,7,0,0,83,1
+100089,Operations,region_2,Bachelors,f,other,1,54,4,22,0,0,57,0
+100090,Analytics,region_15,Bachelors,m,other,2,37,5,8,1,0,82,10
+100091,R&D,region_22,Masters & above,m,other,2,27,4,5,0,0,86,1
+100092,Operations,region_22,Masters & above,m,sourcing,1,44,3,10,0,0,55,0
+100093,Technology,region_24,Masters & above,f,other,1,37,3,10,0,0,81,1
+100094,Procurement,region_7,Masters & above,m,other,1,48,4,8,0,0,72,0
+100095,Sales & Marketing,region_25,Bachelors,f,other,1,31,3,6,1,0,43,5
+100096,Finance,region_22,Bachelors,f,other,1,28,5,5,1,0,60,5
+100097,Procurement,region_13,Masters & above,f,other,1,34,3,4,0,0,69,0
+100098,Sales & Marketing,region_14,Bachelors,f,sourcing,1,44,1,4,0,0,47,0
+100099,Sales & Marketing,region_12,Bachelors,m,sourcing,1,27,5,2,0,0,50,0
+100100,Operations,region_22,Masters & above,m,referred,1,45,3,4,1,0,57,5
+100101,Sales & Marketing,region_13,Bachelors,m,sourcing,1,24,4,2,0,0,48,0
+100102,Analytics,region_29,Bachelors,m,other,1,37,5,4,0,0,82,1
+100103,Analytics,region_22,Masters & above,m,other,1,27,5,1,1,0,86,10
+100104,Legal,region_22,Bachelors,m,other,1,33,2,1,1,0,59,5
+100105,Sales & Marketing,region_2,Masters & above,f,other,1,31,1,2,1,0,53,5
+100106,Sales & Marketing,region_7,Masters & above,m,sourcing,3,38,3,5,0,0,49,0
+100107,Procurement,region_22,Bachelors,m,other,1,32,5,2,1,0,72,5
+100108,Analytics,region_19,Bachelors,m,other,1,29,3,4,0,0,84,1
+100109,Sales & Marketing,region_15,Bachelors,m,other,1,37,4,9,0,0,50,0
+100110,Operations,region_13,Bachelors,m,other,2,42,3,12,0,0,60,0
+100111,R&D,region_22,Masters & above,m,sourcing,2,32,5,5,1,0,88,10
+100112,Operations,region_13,Bachelors,m,other,1,45,3,3,0,0,60,0
+100113,Analytics,region_29,Bachelors,m,other,1,28,3,7,0,0,83,1
+100114,Technology,region_15,Masters & above,m,sourcing,1,35,1,9,0,0,81,1
+100115,Sales & Marketing,region_4,Bachelors,m,other,3,28,3,5,0,0,48,0
+100116,Operations,region_8,Bachelors,f,other,1,37,1,3,1,0,59,5
+100117,Analytics,region_4,Masters & above,m,other,1,38,4,7,1,0,88,10
+100118,Procurement,region_2,Bachelors,f,sourcing,1,31,1,6,0,0,68,0
+100119,Operations,region_2,Masters & above,m,other,2,43,3,2,0,0,69,0
+100120,Operations,region_23,Bachelors,m,other,1,32,3,2,1,0,62,5
+100121,Procurement,region_2,Below Secondary,m,sourcing,1,24,4,2,1,0,69,5
+100122,Operations,region_2,Masters & above,m,other,1,52,5,8,0,0,59,0
+100123,Technology,region_13,Masters & above,m,other,1,38,5,2,0,0,88,1
+100124,Finance,region_20,Bachelors,m,other,1,35,3,4,0,0,59,0
+100125,Technology,region_31,Masters & above,m,other,1,39,5,4,0,1,81,1
+100126,Procurement,region_7,Bachelors,m,other,1,31,3,5,1,0,65,5
+100127,Operations,region_27,Bachelors,m,sourcing,1,37,3,5,0,0,57,0
+100128,Analytics,region_21,Masters & above,m,sourcing,1,27,1,1,0,0,80,1
+100129,Operations,region_30,Masters & above,f,other,1,37,5,9,1,0,56,5
+100130,Analytics,region_16,Bachelors,m,other,2,31,3,5,1,0,81,10
+100131,Analytics,region_22,Bachelors,m,sourcing,1,28,5,4,1,0,85,10
+100132,Technology,region_15,Bachelors,m,other,1,26,3,3,0,0,77,0
+100133,Finance,region_2,Masters & above,m,other,1,49,4,7,1,0,62,5
+100134,Procurement,region_13,Bachelors,f,other,1,34,3,9,0,0,68,0
+100135,Finance,region_4,Masters & above,f,other,1,38,3,2,0,0,58,0
+100136,Sales & Marketing,region_13,Masters & above,m,other,1,52,4,4,1,0,51,5
+100137,Sales & Marketing,region_22,Bachelors,m,sourcing,3,31,1,7,1,0,50,5
+100138,Technology,region_2,Bachelors,f,other,1,24,1,2,0,0,82,1
+100139,Analytics,region_22,Masters & above,f,sourcing,2,26,5,3,1,0,86,10
+100140,HR,region_7,Bachelors,m,other,1,31,2,5,0,0,66,0
+100141,Technology,region_26,Bachelors,f,other,1,43,1,4,1,0,86,10
+100142,Procurement,region_4,Masters & above,m,other,4,37,3,6,0,0,68,0
+100143,Sales & Marketing,region_2,Masters & above,m,sourcing,1,37,4,4,0,0,50,0
+100144,HR,region_2,Masters & above,m,other,1,37,5,9,1,0,53,5
+100145,Operations,region_29,Bachelors,m,other,1,32,5,8,1,0,58,5
+100146,Sales & Marketing,region_26,Bachelors,f,other,1,30,4,2,0,0,53,0
+100147,Procurement,region_20,Bachelors,f,other,1,30,5,4,1,0,71,5
+100148,Sales & Marketing,region_7,Bachelors,m,sourcing,1,27,4,3,0,0,50,0
+100149,Sales & Marketing,region_2,Bachelors,m,other,2,36,4,8,0,0,45,0
+100150,Technology,region_9,Bachelors,m,sourcing,4,30,3,2,0,0,78,0
+100151,Procurement,region_2,Masters & above,m,sourcing,1,49,4,19,0,0,73,0
+100152,Sales & Marketing,region_10,Masters & above,m,other,1,38,5,5,0,0,63,0
+100153,Sales & Marketing,region_30,Bachelors,m,other,1,29,3,6,0,0,51,0
+100154,Technology,region_33,Bachelors,m,other,1,48,3,6,1,0,81,10
+100155,Sales & Marketing,region_21,Bachelors,m,other,1,29,3,1,0,0,53,0
+100156,Analytics,region_2,Masters & above,m,other,1,59,4,13,0,0,82,1
+100157,Operations,region_7,Bachelors,f,other,1,36,5,5,1,0,62,5
+100158,Finance,region_13,Bachelors,m,other,1,28,3,3,0,0,59,0
+100159,Procurement,region_22,Bachelors,m,other,2,27,4,2,1,0,68,5
+100160,Operations,region_2,Bachelors,m,sourcing,1,25,3,2,0,0,62,0
+100161,Sales & Marketing,region_26,Bachelors,m,other,1,30,5,6,1,0,52,5
+100162,HR,region_27,Below Secondary,m,other,1,23,3,1,0,0,51,0
+100163,HR,region_15,Bachelors,f,sourcing,1,28,3,1,0,0,50,0
+100164,Sales & Marketing,region_2,Bachelors,m,other,1,38,4,5,1,0,48,5
+100165,Sales & Marketing,region_22,Bachelors,m,sourcing,1,30,3,1,1,0,45,5
+100166,HR,region_2,Bachelors,f,other,1,53,4,21,0,0,53,0
+100167,Sales & Marketing,region_8,Masters & above,m,other,1,35,3,8,0,0,45,0
+100168,HR,region_2,Bachelors,m,other,1,45,3,14,1,0,53,5
+100169,Sales & Marketing,region_26,Bachelors,m,sourcing,1,40,1,8,0,0,51,0
+100170,Operations,region_32,Bachelors,m,other,1,39,3,8,0,0,58,0
+100171,Analytics,region_13,Bachelors,m,other,1,46,4,6,0,0,82,1
+100172,Technology,region_5,Bachelors,m,sourcing,2,29,3,3,0,0,79,0
+100173,Analytics,region_6,Bachelors,m,other,1,28,4,1,1,0,84,10
+100174,Technology,region_15,Bachelors,f,other,1,34,4,6,1,0,82,10
+100175,Sales & Marketing,region_9,Bachelors,m,other,1,23,3,1,1,0,47,5
+100176,Sales & Marketing,region_14,Bachelors,m,other,1,38,5,3,0,0,51,0
+100177,HR,region_22,Masters & above,m,sourcing,1,32,3,5,0,0,52,0
+100178,Operations,region_26,Bachelors,m,other,1,33,3,5,1,0,58,5
+100179,Procurement,region_2,Bachelors,f,other,1,39,4,9,0,0,70,0
+100180,Procurement,region_4,Masters & above,m,other,4,36,3,6,0,0,71,0
+100181,Operations,region_22,Bachelors,m,sourcing,2,33,4,4,0,0,59,0
+100182,Sales & Marketing,region_2,Bachelors,f,other,1,29,4,6,1,0,45,5
+100183,R&D,region_7,Bachelors,f,other,1,32,3,5,0,0,85,1
+100184,Sales & Marketing,region_28,Bachelors,f,sourcing,1,26,3,2,1,0,46,5
+100185,Analytics,region_32,Bachelors,m,sourcing,1,38,3,3,0,0,82,1
+100186,Procurement,region_22,Masters & above,m,sourcing,1,42,2,15,0,0,70,0
+100187,Operations,region_32,Bachelors,f,sourcing,1,30,5,6,0,0,60,0
+100188,Analytics,region_22,Bachelors,m,sourcing,2,28,3,1,0,0,83,1
+100189,Sales & Marketing,region_14,Bachelors,m,other,1,36,4,6,0,0,47,0
+100190,Procurement,region_2,Bachelors,f,other,1,56,5,6,0,0,84,1
+100191,Sales & Marketing,region_14,Bachelors,f,other,1,30,3,5,0,0,51,0
+100192,Sales & Marketing,region_15,Bachelors,m,other,2,25,3,1,0,0,50,0
+100193,HR,region_7,Bachelors,f,other,1,29,5,6,1,0,49,5
+100194,Sales & Marketing,region_7,Bachelors,m,other,1,36,2,7,0,0,47,0
+100195,Technology,region_14,Bachelors,f,other,1,39,3,4,0,0,80,1
+100196,Analytics,region_26,Bachelors,m,sourcing,1,30,5,4,1,0,84,10
+100197,R&D,region_2,Bachelors,m,other,2,42,3,9,0,0,84,1
+100198,Sales & Marketing,region_26,Bachelors,m,sourcing,2,37,4,9,0,0,49,0
+100199,Procurement,region_22,Bachelors,m,sourcing,1,31,2,2,1,0,66,5
+100200,Sales & Marketing,region_28,Masters & above,m,sourcing,1,32,4,6,1,0,48,5
+100201,Operations,region_15,Masters & above,m,other,1,40,5,11,1,0,59,5
+100202,Finance,region_2,Bachelors,m,sourcing,2,39,5,10,1,0,58,5
+100203,Sales & Marketing,region_26,Bachelors,m,other,1,40,4,10,1,0,47,5
+100204,HR,region_22,Bachelors,m,sourcing,1,23,1,2,0,0,45,0
+100205,Operations,region_2,Bachelors,m,sourcing,2,28,3,1,0,0,60,0
+100206,Sales & Marketing,region_7,Bachelors,m,other,1,37,2,4,0,0,51,0
+100207,Finance,region_2,Below Secondary,m,sourcing,1,23,3,1,1,0,58,5
+100208,Operations,region_2,Bachelors,m,sourcing,1,37,3,9,0,0,61,0
+100209,Legal,region_22,Bachelors,m,referred,1,29,5,3,1,0,54,5
+100210,Operations,region_32,Bachelors,f,other,1,38,4,10,0,0,55,0
+100211,Operations,region_22,Bachelors,m,other,2,39,4,10,0,0,57,0
+100212,Sales & Marketing,region_22,Masters & above,m,other,2,38,5,7,1,0,48,5
+100213,Procurement,region_13,Bachelors,m,sourcing,1,34,3,4,0,0,69,0
+100214,Procurement,region_15,Bachelors,f,other,1,48,5,21,0,0,69,0
+100215,R&D,region_26,Masters & above,m,other,1,29,5,4,0,0,82,1
+100216,Technology,region_13,Masters & above,f,other,1,37,4,7,1,0,81,10
+100217,Sales & Marketing,region_22,Bachelors,m,other,2,23,3,1,1,0,53,5
+100218,Operations,region_2,Bachelors,f,other,1,47,5,2,1,0,63,5
+100219,Sales & Marketing,region_14,Bachelors,m,sourcing,1,31,1,3,0,0,50,0
+100220,Analytics,region_16,Bachelors,m,other,1,28,3,4,0,0,83,1
+100221,Finance,region_28,Masters & above,f,other,2,32,4,6,1,0,57,5
+100222,Procurement,region_27,Bachelors,f,other,1,33,2,4,1,0,71,5
+100223,Legal,region_6,Bachelors,m,sourcing,2,28,3,1,1,0,58,5
+100224,Legal,region_2,Bachelors,m,other,1,32,3,1,1,0,62,5
+100225,Operations,region_6,Bachelors,m,sourcing,1,34,3,10,0,0,67,0
+100226,Sales & Marketing,region_7,Bachelors,m,sourcing,1,38,5,3,1,0,52,5
+100227,Technology,region_33,Bachelors,m,other,1,28,4,5,0,0,79,0
+100228,Analytics,region_24,Masters & above,m,other,1,34,3,3,0,0,87,1
+100229,Procurement,region_2,Bachelors,m,other,1,44,2,16,0,0,70,0
+100230,Procurement,region_20,Bachelors,m,sourcing,1,28,3,4,0,0,69,0
+100231,Operations,region_27,Bachelors,f,other,1,31,1,5,1,0,61,5
+100232,Analytics,region_29,Bachelors,m,other,1,34,2,5,0,0,84,1
+100233,Procurement,region_2,Below Secondary,m,other,1,22,3,2,1,0,71,5
+100234,Procurement,region_2,Bachelors,m,other,1,20,3,1,0,0,76,0
+100235,Procurement,region_11,Bachelors,f,other,1,32,3,7,1,0,66,5
+100236,Technology,region_2,Masters & above,f,other,1,43,3,6,1,0,80,10
+100237,Analytics,region_2,Masters & above,f,other,1,42,5,13,1,0,85,10
+100238,HR,region_7,Bachelors,m,other,1,41,3,8,1,0,54,5
+100239,Technology,region_11,Bachelors,f,other,1,27,3,2,0,0,84,1
+100240,Finance,region_2,Bachelors,m,sourcing,1,41,4,9,0,0,56,0
+100241,Technology,region_23,Bachelors,m,other,1,26,5,2,1,0,76,5
+100242,Analytics,region_34,Bachelors,m,other,1,35,5,10,1,0,85,10
+100243,Sales & Marketing,region_28,Bachelors,f,sourcing,1,28,1,3,0,0,58,0
+100244,HR,region_2,Bachelors,f,sourcing,1,50,1,9,0,0,46,0
+100245,Sales & Marketing,region_22,Masters & above,m,other,1,29,3,1,1,1,46,5
+100246,Sales & Marketing,region_7,Masters & above,m,other,2,37,1,10,0,0,49,0
+100247,Operations,region_4,Bachelors,m,other,2,35,3,8,1,0,64,5
+100248,Sales & Marketing,region_28,Masters & above,f,other,1,29,4,4,0,0,51,0
+100249,Sales & Marketing,region_6,Bachelors,f,sourcing,1,36,5,8,0,0,47,0
+100250,Technology,region_5,Below Secondary,m,other,1,22,2,1,1,0,79,5
+100251,Finance,region_2,Bachelors,m,other,1,36,3,3,0,0,55,0
+100252,Operations,region_22,Bachelors,f,other,2,37,4,2,0,0,71,0
+100253,Analytics,region_29,Bachelors,m,other,1,30,3,4,0,0,83,1
+100254,Finance,region_2,Bachelors,m,sourcing,2,26,2,2,0,0,54,0
+100255,Procurement,region_13,Bachelors,f,sourcing,2,28,5,3,1,0,68,5
+100256,Operations,region_15,Bachelors,m,other,1,49,4,9,0,0,61,0
+100257,Analytics,region_22,Bachelors,m,other,1,29,5,2,1,0,84,10
+100258,Procurement,region_21,Masters & above,m,other,1,35,5,7,1,0,70,5
+100259,Technology,region_24,Bachelors,m,other,1,32,2,6,0,0,90,1
+100260,Sales & Marketing,region_28,Masters & above,f,sourcing,1,42,3,4,0,0,54,0
+100261,Technology,region_4,Masters & above,m,other,1,37,4,5,0,0,76,0
+100262,Sales & Marketing,region_29,Bachelors,m,other,1,28,5,2,0,0,45,0
+100263,Procurement,region_15,Bachelors,m,other,1,38,4,2,1,1,97,10
+100264,Analytics,region_2,Bachelors,m,sourcing,2,39,4,5,1,0,86,10
+100265,Analytics,region_27,Bachelors,m,other,1,28,5,2,1,0,87,10
+100266,Operations,region_14,Bachelors,m,other,2,34,3,10,0,0,60,0
+100267,Operations,region_22,Bachelors,f,other,1,37,3,3,0,0,63,0
+100268,Sales & Marketing,region_2,Masters & above,f,sourcing,2,38,1,6,0,0,51,0
+100269,Finance,region_2,Bachelors,f,sourcing,1,24,5,2,1,0,57,5
+100270,Sales & Marketing,region_11,Masters & above,m,other,1,36,3,7,0,0,52,0
+100271,Procurement,region_2,Bachelors,m,other,1,41,2,15,0,0,70,0
+100272,Operations,region_22,Bachelors,m,other,2,29,2,1,0,0,60,0
+100273,Technology,region_2,Masters & above,f,sourcing,2,59,1,15,0,0,76,0
+100274,Sales & Marketing,region_12,Bachelors,f,sourcing,1,29,3,1,0,0,48,0
+100275,Operations,region_22,Bachelors,f,other,1,29,5,3,0,0,57,0
+100276,Sales & Marketing,region_13,Bachelors,f,sourcing,3,31,1,5,0,0,51,0
+100277,Sales & Marketing,region_28,Bachelors,m,sourcing,1,31,5,7,0,0,51,0
+100278,Sales & Marketing,region_25,Bachelors,f,sourcing,1,31,4,3,0,0,50,0
+100279,Sales & Marketing,region_26,Bachelors,m,other,1,32,3,4,1,0,47,5
+100280,Procurement,region_26,Bachelors,f,other,1,49,4,8,0,0,68,0
+100281,Operations,region_2,Masters & above,m,other,1,42,5,11,0,0,59,0
+100282,Sales & Marketing,region_11,Bachelors,m,other,1,32,5,7,1,0,49,5
+100283,Analytics,region_11,Bachelors,m,other,1,30,3,4,0,0,80,1
+100284,Analytics,region_4,Bachelors,m,other,1,32,5,8,0,0,86,1
+100285,Procurement,region_1,Bachelors,f,sourcing,2,29,1,2,0,0,74,0
+100286,Sales & Marketing,region_2,Bachelors,m,sourcing,2,31,1,6,0,0,50,0
+100287,Sales & Marketing,region_20,Bachelors,m,other,2,27,3,1,1,1,48,5
+100288,Operations,region_34,Bachelors,m,other,1,30,3,2,1,0,58,5
+100289,Operations,region_2,Bachelors,f,sourcing,1,48,4,8,1,0,60,5
+100290,Sales & Marketing,region_2,Bachelors,m,sourcing,1,39,5,12,0,0,50,0
+100291,Analytics,region_23,Masters & above,m,sourcing,1,35,2,7,1,0,87,10
+100292,Technology,region_2,Bachelors,f,other,1,47,4,7,0,0,78,0
+100293,Sales & Marketing,region_31,Masters & above,m,other,1,46,5,3,1,0,51,5
+100294,Procurement,region_31,Masters & above,f,other,1,37,3,2,1,1,97,10
+100295,Operations,region_19,Bachelors,m,other,1,26,5,6,1,0,60,5
+100296,Technology,region_6,Bachelors,f,sourcing,1,31,5,4,1,0,87,10
+100297,Operations,region_27,Bachelors,m,other,1,26,3,1,1,0,56,5
+100298,Procurement,region_20,Bachelors,f,other,1,28,2,4,0,0,69,0
+100299,Operations,region_4,Masters & above,f,sourcing,2,36,1,6,1,1,65,5
+100300,Technology,region_24,Masters & above,f,other,1,35,1,7,0,0,80,1
+100301,Analytics,region_13,Bachelors,m,sourcing,1,34,4,9,0,0,84,1
+100302,Analytics,region_2,Masters & above,m,sourcing,2,58,5,6,1,0,81,10
+100303,Sales & Marketing,region_22,Masters & above,m,sourcing,1,29,2,5,1,0,50,5
+100304,Operations,region_13,Bachelors,m,other,1,36,2,9,0,0,59,0
+100305,R&D,region_2,Bachelors,m,sourcing,1,30,1,4,0,0,84,1
+100306,HR,region_2,Masters & above,f,other,1,40,3,10,0,0,49,0
+100307,Procurement,region_15,Bachelors,m,other,1,38,3,4,1,0,71,5
+100308,Sales & Marketing,region_11,Bachelors,m,other,1,36,2,5,0,0,52,0
+100309,Sales & Marketing,region_2,Bachelors,m,other,1,41,4,9,0,0,49,0
+100310,Procurement,region_22,Masters & above,m,other,1,33,5,5,1,0,66,5
+100311,Technology,region_31,Bachelors,m,sourcing,1,29,1,4,0,0,79,0
+100312,Operations,region_22,Masters & above,f,other,1,33,4,8,1,0,81,10
+100313,Sales & Marketing,region_7,Masters & above,f,other,1,41,1,2,0,0,47,0
+100314,Procurement,region_2,Masters & above,m,other,2,41,3,10,0,0,67,0
+100315,Operations,region_13,Masters & above,m,other,1,41,3,4,0,0,60,0
+100316,Technology,region_7,Bachelors,f,other,1,28,4,5,1,0,76,5
+100317,Sales & Marketing,region_7,Masters & above,f,sourcing,1,32,5,7,1,0,53,5
+100318,Technology,region_8,Bachelors,m,other,1,25,3,3,0,0,77,0
+100319,Technology,region_13,Below Secondary,f,sourcing,1,24,2,2,0,0,85,1
+100320,Sales & Marketing,region_7,Bachelors,m,other,1,53,4,10,1,0,45,5
+100321,Sales & Marketing,region_25,Masters & above,m,sourcing,1,38,5,12,1,0,49,5
+100322,Legal,region_22,Bachelors,m,sourcing,1,31,3,3,0,0,62,0
+100323,Sales & Marketing,region_2,Bachelors,f,other,2,51,3,17,0,0,52,0
+100324,Operations,region_14,Masters & above,m,sourcing,1,42,3,4,0,0,59,0
+100325,Operations,region_2,Masters & above,m,other,1,56,5,16,1,0,59,5
+100326,Sales & Marketing,region_4,Bachelors,m,other,1,48,4,9,0,0,46,0
+100327,Procurement,region_2,Masters & above,m,sourcing,1,56,3,2,1,0,65,5
+100328,Technology,region_26,Bachelors,m,referred,1,27,3,1,0,0,79,0
+100329,R&D,region_26,Bachelors,m,other,1,31,4,6,0,0,84,1
+100330,Procurement,region_22,Masters & above,m,sourcing,2,33,3,3,0,0,72,0
+100331,Technology,region_7,Masters & above,m,referred,1,36,4,4,1,0,80,10
+100332,Procurement,region_11,Masters & above,f,other,1,38,5,4,1,0,70,5
+100333,Procurement,region_5,Bachelors,m,other,1,36,2,4,0,0,64,0
+100334,Sales & Marketing,region_2,Bachelors,f,sourcing,1,50,4,21,1,0,49,5
+100335,Sales & Marketing,region_14,Bachelors,m,sourcing,1,40,1,3,0,0,47,0
+100336,Finance,region_28,Below Secondary,f,other,1,26,1,2,1,0,54,5
+100337,Operations,region_20,Bachelors,m,sourcing,1,27,3,3,0,0,58,0
+100338,Sales & Marketing,region_27,Masters & above,m,other,1,54,5,21,0,0,53,0
+100339,Finance,region_26,Bachelors,f,other,1,29,4,7,0,0,67,0
+100340,Technology,region_26,Bachelors,m,sourcing,1,24,2,1,1,0,77,5
+100341,HR,region_4,Bachelors,f,other,1,31,3,5,0,0,51,0
+100342,Sales & Marketing,region_13,Bachelors,m,other,1,31,1,4,0,0,47,0
+100343,Procurement,region_2,Bachelors,f,other,3,31,2,9,0,0,65,0
+100344,Finance,region_29,Bachelors,m,sourcing,1,30,4,7,0,0,61,0
+100345,Procurement,region_7,Bachelors,m,sourcing,1,36,3,2,0,0,68,0
+100346,Finance,region_2,Bachelors,m,other,1,33,5,3,1,0,57,5
+100347,Analytics,region_22,Bachelors,m,sourcing,2,36,3,3,0,0,85,1
+100348,Technology,region_7,Masters & above,m,other,1,51,4,11,0,0,75,0
+100349,Technology,region_22,Bachelors,m,sourcing,1,29,5,2,1,0,76,5
+100350,Sales & Marketing,region_16,Bachelors,m,sourcing,2,40,5,12,1,0,50,5
+100351,Sales & Marketing,region_17,Masters & above,m,sourcing,1,40,3,10,0,0,46,0
+100352,Sales & Marketing,region_4,Masters & above,f,other,1,34,3,4,0,0,52,0
+100353,Analytics,region_24,Bachelors,m,other,1,37,3,10,0,0,82,1
+100354,Operations,region_11,Bachelors,m,sourcing,1,30,5,6,1,0,58,5
+100355,Sales & Marketing,region_7,Bachelors,m,sourcing,1,31,4,4,1,0,47,5
+100356,Operations,region_27,Bachelors,f,sourcing,1,26,5,3,0,0,56,0
+100357,Sales & Marketing,region_17,Bachelors,m,sourcing,1,40,5,6,1,0,50,5
+100358,Procurement,region_7,Bachelors,f,other,1,49,3,7,1,0,64,5
+100359,Procurement,region_27,Bachelors,m,other,1,27,2,5,0,0,65,0
+100360,Sales & Marketing,region_9,Masters & above,m,sourcing,1,37,5,3,0,0,47,0
+100361,Technology,region_17,Bachelors,m,sourcing,1,25,3,1,0,0,80,1
+100362,Technology,region_29,Masters & above,m,sourcing,1,30,1,3,0,0,83,1
+100363,Procurement,region_4,Masters & above,m,other,1,41,3,4,0,0,76,0
+100364,Finance,region_20,Bachelors,f,other,1,29,4,6,1,0,58,5
+100365,Operations,region_20,Bachelors,m,other,1,33,3,7,1,1,62,5
+100366,Sales & Marketing,region_17,Masters & above,m,sourcing,1,34,4,6,1,0,50,5
+100367,Analytics,region_13,Bachelors,m,sourcing,1,34,3,3,1,0,87,10
+100368,Operations,region_22,Bachelors,m,other,1,52,1,10,0,0,61,0
+100369,Sales & Marketing,region_34,Bachelors,m,sourcing,1,30,2,3,0,0,50,0
+100370,Analytics,region_2,Masters & above,m,sourcing,2,34,4,7,0,0,87,1
+100371,Sales & Marketing,region_2,Bachelors,m,sourcing,2,43,1,14,0,0,52,0
+100372,Technology,region_17,Bachelors,m,other,1,29,3,1,1,0,85,10
+100373,Sales & Marketing,region_2,Bachelors,f,sourcing,1,35,3,3,1,0,52,5
+100374,Technology,region_22,Masters & above,m,other,4,40,3,12,0,0,77,0
+100375,Technology,region_23,Bachelors,m,sourcing,2,33,4,9,0,0,83,1
+100376,Sales & Marketing,region_8,Masters & above,m,other,1,30,3,2,1,0,55,5
+100377,Sales & Marketing,region_14,Bachelors,f,sourcing,2,42,1,3,1,0,46,5
+100378,Sales & Marketing,region_22,Bachelors,m,sourcing,3,29,1,3,0,0,51,0
+100379,Analytics,region_22,Bachelors,m,other,1,25,1,1,0,0,88,1
+100380,Analytics,region_26,Bachelors,m,sourcing,1,26,5,4,1,0,90,10
+100381,Sales & Marketing,region_31,Bachelors,m,other,1,27,2,3,0,0,52,0
+100382,Operations,region_13,Bachelors,m,other,1,34,5,5,1,0,66,5
+100383,Sales & Marketing,region_31,Bachelors,m,sourcing,1,26,4,5,0,0,45,0
+100384,Technology,region_2,Bachelors,f,other,1,52,5,18,0,0,80,1
+100385,Sales & Marketing,region_7,Bachelors,m,other,1,26,5,2,1,0,54,5
+100386,Analytics,region_34,Bachelors,m,sourcing,3,27,3,2,0,0,83,1
+100387,Analytics,region_22,Masters & above,m,other,1,31,2,1,1,0,84,10
+100388,Operations,region_23,Bachelors,m,other,1,33,4,8,1,0,59,5
+100389,Sales & Marketing,region_2,Bachelors,m,sourcing,1,36,5,4,1,0,49,5
+100390,Technology,region_2,Masters & above,f,other,1,57,1,26,0,0,76,0
+100391,Sales & Marketing,region_2,Bachelors,m,other,2,46,1,7,0,0,49,0
+100392,Sales & Marketing,region_19,Bachelors,m,sourcing,1,30,2,3,0,0,50,0
+100393,Operations,region_2,Below Secondary,m,other,1,21,1,1,1,0,56,5
+100394,Technology,region_4,Bachelors,m,sourcing,1,26,1,1,1,0,85,10
+100395,Technology,region_7,Masters & above,m,sourcing,2,40,3,6,0,0,81,1
+100396,Technology,region_23,Bachelors,m,other,2,32,3,6,0,0,79,0
+100397,Finance,region_22,Masters & above,f,sourcing,1,36,3,2,1,0,61,5
+100398,Legal,region_2,Bachelors,m,other,1,28,2,2,0,0,62,0
+100399,Operations,region_22,Bachelors,f,sourcing,1,29,5,4,1,0,56,5
+100400,Sales & Marketing,region_2,Masters & above,m,sourcing,1,38,4,4,0,0,49,0
+100401,Technology,region_4,Bachelors,m,other,1,31,2,4,1,0,78,5
+100402,Sales & Marketing,region_22,Bachelors,m,other,1,29,1,4,0,0,46,0
+100403,Technology,region_5,Below Secondary,m,other,1,23,1,1,0,0,81,1
+100404,Operations,region_26,Bachelors,m,sourcing,1,41,4,6,1,0,60,5
+100405,Procurement,region_2,Bachelors,m,other,1,29,5,2,1,0,74,5
+100406,Sales & Marketing,region_28,Bachelors,f,other,1,29,2,5,0,0,51,0
+100407,Operations,region_2,Bachelors,m,sourcing,1,28,3,3,0,0,59,0
+100408,Analytics,region_29,Bachelors,m,other,2,28,5,4,1,0,84,10
+100409,Procurement,region_22,Bachelors,f,sourcing,1,31,1,6,0,0,64,0
+100410,Technology,region_4,Masters & above,m,sourcing,1,36,3,4,0,0,76,0
+100411,Operations,region_2,Bachelors,m,other,3,26,3,4,1,0,57,5
+100412,Technology,region_15,Bachelors,m,other,1,29,3,2,0,0,84,1
+100413,Analytics,region_7,Bachelors,m,sourcing,1,32,4,6,0,0,85,1
+100414,Sales & Marketing,region_2,Bachelors,f,other,1,40,1,10,0,0,50,0
+100415,Analytics,region_22,Bachelors,m,sourcing,2,38,4,13,0,0,87,1
+100416,Analytics,region_4,Bachelors,m,other,1,42,5,11,1,0,80,10
+100417,Procurement,region_29,Masters & above,f,other,1,33,3,6,0,0,68,0
+100418,Analytics,region_2,Bachelors,m,other,1,31,5,5,1,0,92,10
+100419,Operations,region_3,Masters & above,f,sourcing,1,35,3,4,0,0,58,0
+100420,HR,region_2,Masters & above,f,sourcing,1,58,5,6,1,0,51,5
+100421,Sales & Marketing,region_28,Bachelors,f,sourcing,1,26,2,4,0,0,48,0
+100422,HR,region_29,Bachelors,f,sourcing,1,33,3,8,1,0,49,5
+100423,Technology,region_7,Bachelors,m,sourcing,1,30,3,3,1,0,80,10
+100424,Technology,region_13,Masters & above,f,sourcing,1,43,3,12,0,0,79,0
+100425,HR,region_17,Bachelors,f,sourcing,1,31,4,7,0,0,48,0
+100426,Analytics,region_29,Bachelors,m,sourcing,1,32,3,5,1,0,86,10
+100427,Technology,region_2,Masters & above,f,sourcing,2,57,2,7,0,0,83,1
+100428,Operations,region_2,Bachelors,f,other,1,54,4,22,0,0,57,0
+100429,Analytics,region_15,Bachelors,m,other,2,37,5,8,1,0,82,10
+100430,R&D,region_22,Masters & above,m,other,2,27,4,5,0,0,86,1
+100431,Operations,region_22,Masters & above,m,sourcing,1,44,3,10,0,0,55,0
+100432,Technology,region_24,Masters & above,f,other,1,37,3,10,0,0,81,1
+100433,Procurement,region_7,Masters & above,m,other,1,48,4,8,0,0,72,0
+100434,Sales & Marketing,region_25,Bachelors,f,other,1,31,3,6,1,0,43,5
+100435,Finance,region_22,Bachelors,f,other,1,28,5,5,1,0,60,5
+100436,Procurement,region_13,Masters & above,f,other,1,34,3,4,0,0,69,0
+100437,Sales & Marketing,region_14,Bachelors,f,sourcing,1,44,1,4,0,0,47,0
+100438,Sales & Marketing,region_12,Bachelors,m,sourcing,1,27,5,2,0,0,50,0
+100439,Operations,region_22,Masters & above,m,referred,1,45,3,4,1,0,57,5
+100440,Sales & Marketing,region_13,Bachelors,m,sourcing,1,24,4,2,0,0,48,0
+100441,Analytics,region_29,Bachelors,m,other,1,37,5,4,0,0,82,1
+100442,Analytics,region_22,Masters & above,m,other,1,27,5,1,1,0,86,10
+100443,Legal,region_22,Bachelors,m,other,1,33,2,1,1,0,59,5
+100444,Sales & Marketing,region_2,Masters & above,f,other,1,31,1,2,1,0,53,5
+100445,Sales & Marketing,region_7,Masters & above,m,sourcing,3,38,3,5,0,0,49,0
+100446,Procurement,region_22,Bachelors,m,other,1,32,5,2,1,0,72,5
+100447,Analytics,region_19,Bachelors,m,other,1,29,3,4,0,0,84,1
+100448,Sales & Marketing,region_15,Bachelors,m,other,1,37,4,9,0,0,50,0
+100449,Operations,region_13,Bachelors,m,other,2,42,3,12,0,0,60,0
+100450,R&D,region_22,Masters & above,m,sourcing,2,32,5,5,1,0,88,10
+100451,Operations,region_13,Bachelors,m,other,1,45,3,3,0,0,60,0
+100452,Analytics,region_29,Bachelors,m,other,1,28,3,7,0,0,83,1
+100453,Technology,region_15,Masters & above,m,sourcing,1,35,1,9,0,0,81,1
+100454,Sales & Marketing,region_4,Bachelors,m,other,3,28,3,5,0,0,48,0
+100455,Operations,region_8,Bachelors,f,other,1,37,1,3,1,0,59,5
+100456,Analytics,region_4,Masters & above,m,other,1,38,4,7,1,0,88,10
+100457,Procurement,region_2,Bachelors,f,sourcing,1,31,1,6,0,0,68,0
+100458,Operations,region_2,Masters & above,m,other,2,43,3,2,0,0,69,0
+100459,Operations,region_23,Bachelors,m,other,1,32,3,2,1,0,62,5
+100460,Procurement,region_2,Below Secondary,m,sourcing,1,24,4,2,1,0,69,5
+100461,Operations,region_2,Masters & above,m,other,1,52,5,8,0,0,59,0
+100462,Technology,region_13,Masters & above,m,other,1,38,5,2,0,0,88,1
+100463,Finance,region_20,Bachelors,m,other,1,35,3,4,0,0,59,0
+100464,Technology,region_31,Masters & above,m,other,1,39,5,4,0,1,81,1
+100465,Procurement,region_7,Bachelors,m,other,1,31,3,5,1,0,65,5
+100466,Operations,region_27,Bachelors,m,sourcing,1,37,3,5,0,0,57,0
+100467,Analytics,region_21,Masters & above,m,sourcing,1,27,1,1,0,0,80,1
+100468,Operations,region_30,Masters & above,f,other,1,37,5,9,1,0,56,5
+100469,Analytics,region_16,Bachelors,m,other,2,31,3,5,1,0,81,10
+100470,Analytics,region_22,Bachelors,m,sourcing,1,28,5,4,1,0,85,10
+100471,Technology,region_15,Bachelors,m,other,1,26,3,3,0,0,77,0
+100472,Finance,region_2,Masters & above,m,other,1,49,4,7,1,0,62,5
+100473,Procurement,region_13,Bachelors,f,other,1,34,3,9,0,0,68,0
+100474,Finance,region_4,Masters & above,f,other,1,38,3,2,0,0,58,0
+100475,Sales & Marketing,region_13,Masters & above,m,other,1,52,4,4,1,0,51,5
+100476,Sales & Marketing,region_22,Bachelors,m,sourcing,3,31,1,7,1,0,50,5
+100477,Technology,region_2,Bachelors,f,other,1,24,1,2,0,0,82,1
+100478,Analytics,region_22,Masters & above,f,sourcing,2,26,5,3,1,0,86,10
+100479,HR,region_7,Bachelors,m,other,1,31,2,5,0,0,66,0
+100480,Technology,region_26,Bachelors,f,other,1,43,1,4,1,0,86,10
+100481,Procurement,region_4,Masters & above,m,other,4,37,3,6,0,0,68,0
+100482,Sales & Marketing,region_2,Masters & above,m,sourcing,1,37,4,4,0,0,50,0
+100483,HR,region_2,Masters & above,m,other,1,37,5,9,1,0,53,5
+100484,Operations,region_29,Bachelors,m,other,1,32,5,8,1,0,58,5
+100485,Sales & Marketing,region_26,Bachelors,f,other,1,30,4,2,0,0,53,0
+100486,Procurement,region_20,Bachelors,f,other,1,30,5,4,1,0,71,5
+100487,Sales & Marketing,region_7,Bachelors,m,sourcing,1,27,4,3,0,0,50,0
+100488,Sales & Marketing,region_2,Bachelors,m,other,2,36,4,8,0,0,45,0
+100489,Technology,region_9,Bachelors,m,sourcing,4,30,3,2,0,0,78,0
+100490,Procurement,region_2,Masters & above,m,sourcing,1,49,4,19,0,0,73,0
+100491,Sales & Marketing,region_10,Masters & above,m,other,1,38,5,5,0,0,63,0
+100492,Sales & Marketing,region_30,Bachelors,m,other,1,29,3,6,0,0,51,0
+100493,Technology,region_33,Bachelors,m,other,1,48,3,6,1,0,81,10
+100494,Sales & Marketing,region_21,Bachelors,m,other,1,29,3,1,0,0,53,0
+100495,Analytics,region_2,Masters & above,m,other,1,59,4,13,0,0,82,1
+100496,Operations,region_7,Bachelors,f,other,1,36,5,5,1,0,62,5
+100497,Finance,region_13,Bachelors,m,other,1,28,3,3,0,0,59,0
+100498,Procurement,region_22,Bachelors,m,other,2,27,4,2,1,0,68,5
+100499,Operations,region_2,Bachelors,m,sourcing,1,25,3,2,0,0,62,0
+100500,Sales & Marketing,region_26,Bachelors,m,other,1,30,5,6,1,0,52,5
+100501,HR,region_27,Below Secondary,m,other,1,23,3,1,0,0,51,0
+100502,HR,region_15,Bachelors,f,sourcing,1,28,3,1,0,0,50,0
+100503,Sales & Marketing,region_2,Bachelors,m,other,1,38,4,5,1,0,48,5
+100504,Sales & Marketing,region_22,Bachelors,m,sourcing,1,30,3,1,1,0,45,5
+100505,HR,region_2,Bachelors,f,other,1,53,4,21,0,0,53,0
+100506,Sales & Marketing,region_8,Masters & above,m,other,1,35,3,8,0,0,45,0
+100507,HR,region_2,Bachelors,m,other,1,45,3,14,1,0,53,5
+100508,Sales & Marketing,region_26,Bachelors,m,sourcing,1,40,1,8,0,0,51,0
+100509,Operations,region_32,Bachelors,m,other,1,39,3,8,0,0,58,0
+100510,Analytics,region_13,Bachelors,m,other,1,46,4,6,0,0,82,1
+100511,Technology,region_5,Bachelors,m,sourcing,2,29,3,3,0,0,79,0
+100512,Analytics,region_6,Bachelors,m,other,1,28,4,1,1,0,84,10
+100513,Technology,region_15,Bachelors,f,other,1,34,4,6,1,0,82,10
+100514,Sales & Marketing,region_9,Bachelors,m,other,1,23,3,1,1,0,47,5
+100515,Sales & Marketing,region_14,Bachelors,m,other,1,38,5,3,0,0,51,0
+100516,HR,region_22,Masters & above,m,sourcing,1,32,3,5,0,0,52,0
+100517,Operations,region_26,Bachelors,m,other,1,33,3,5,1,0,58,5
+100518,Procurement,region_2,Bachelors,f,other,1,39,4,9,0,0,70,0
+100519,Procurement,region_4,Masters & above,m,other,4,36,3,6,0,0,71,0
+100520,Operations,region_22,Bachelors,m,sourcing,2,33,4,4,0,0,59,0
+100521,Sales & Marketing,region_2,Bachelors,f,other,1,29,4,6,1,0,45,5
+100522,R&D,region_7,Bachelors,f,other,1,32,3,5,0,0,85,1
+100523,Sales & Marketing,region_28,Bachelors,f,sourcing,1,26,3,2,1,0,46,5
+100524,Analytics,region_32,Bachelors,m,sourcing,1,38,3,3,0,0,82,1
+100525,Procurement,region_22,Masters & above,m,sourcing,1,42,2,15,0,0,70,0
+100526,Operations,region_32,Bachelors,f,sourcing,1,30,5,6,0,0,60,0
+100527,Analytics,region_22,Bachelors,m,sourcing,2,28,3,1,0,0,83,1
+100528,Sales & Marketing,region_14,Bachelors,m,other,1,36,4,6,0,0,47,0
+100529,Procurement,region_2,Bachelors,f,other,1,56,5,6,0,0,84,1
+100530,Sales & Marketing,region_14,Bachelors,f,other,1,30,3,5,0,0,51,0
+100531,Sales & Marketing,region_15,Bachelors,m,other,2,25,3,1,0,0,50,0
+100532,HR,region_7,Bachelors,f,other,1,29,5,6,1,0,49,5
+100533,Sales & Marketing,region_7,Bachelors,m,other,1,36,2,7,0,0,47,0
+100534,Technology,region_14,Bachelors,f,other,1,39,3,4,0,0,80,1
+100535,Analytics,region_26,Bachelors,m,sourcing,1,30,5,4,1,0,84,10
+100536,R&D,region_2,Bachelors,m,other,2,42,3,9,0,0,84,1
+100537,Sales & Marketing,region_26,Bachelors,m,sourcing,2,37,4,9,0,0,49,0
+100538,Procurement,region_22,Bachelors,m,sourcing,1,31,2,2,1,0,66,5
+100539,Sales & Marketing,region_28,Masters & above,m,sourcing,1,32,4,6,1,0,48,5
+100540,Operations,region_15,Masters & above,m,other,1,40,5,11,1,0,59,5
+100541,Finance,region_2,Bachelors,m,sourcing,2,39,5,10,1,0,58,5
+100542,Sales & Marketing,region_26,Bachelors,m,other,1,40,4,10,1,0,47,5
+100543,HR,region_22,Bachelors,m,sourcing,1,23,1,2,0,0,45,0
+100544,Operations,region_2,Bachelors,m,sourcing,2,28,3,1,0,0,60,0
+100545,Sales & Marketing,region_7,Bachelors,m,other,1,37,2,4,0,0,51,0
+100546,Finance,region_2,Below Secondary,m,sourcing,1,23,3,1,1,0,58,5
+100547,Operations,region_2,Bachelors,m,sourcing,1,37,3,9,0,0,61,0
+100548,Legal,region_22,Bachelors,m,referred,1,29,5,3,1,0,54,5
+100549,Operations,region_32,Bachelors,f,other,1,38,4,10,0,0,55,0
+100550,Operations,region_22,Bachelors,m,other,2,39,4,10,0,0,57,0
+100551,Sales & Marketing,region_22,Masters & above,m,other,2,38,5,7,1,0,48,5
+100552,Procurement,region_13,Bachelors,m,sourcing,1,34,3,4,0,0,69,0
+100553,Procurement,region_15,Bachelors,f,other,1,48,5,21,0,0,69,0
+100554,R&D,region_26,Masters & above,m,other,1,29,5,4,0,0,82,1
+100555,Technology,region_13,Masters & above,f,other,1,37,4,7,1,0,81,10
+100556,Sales & Marketing,region_22,Bachelors,m,other,2,23,3,1,1,0,53,5
+100557,Operations,region_2,Bachelors,f,other,1,47,5,2,1,0,63,5
+100558,Sales & Marketing,region_14,Bachelors,m,sourcing,1,31,1,3,0,0,50,0
+100559,Analytics,region_16,Bachelors,m,other,1,28,3,4,0,0,83,1
+100560,Finance,region_28,Masters & above,f,other,2,32,4,6,1,0,57,5
+100561,Procurement,region_27,Bachelors,f,other,1,33,2,4,1,0,71,5
+100562,Legal,region_6,Bachelors,m,sourcing,2,28,3,1,1,0,58,5
+100563,Legal,region_2,Bachelors,m,other,1,32,3,1,1,0,62,5
+100564,Operations,region_6,Bachelors,m,sourcing,1,34,3,10,0,0,67,0
+100565,Sales & Marketing,region_7,Bachelors,m,sourcing,1,38,5,3,1,0,52,5
+100566,Technology,region_33,Bachelors,m,other,1,28,4,5,0,0,79,0
+100567,Analytics,region_24,Masters & above,m,other,1,34,3,3,0,0,87,1
+100568,Procurement,region_2,Bachelors,m,other,1,44,2,16,0,0,70,0
+100569,Procurement,region_20,Bachelors,m,sourcing,1,28,3,4,0,0,69,0
+100570,Operations,region_27,Bachelors,f,other,1,31,1,5,1,0,61,5
+100571,Analytics,region_29,Bachelors,m,other,1,34,2,5,0,0,84,1
+100572,Procurement,region_2,Below Secondary,m,other,1,22,3,2,1,0,71,5
+100573,Procurement,region_2,Bachelors,m,other,1,20,3,1,0,0,76,0
+100574,Procurement,region_11,Bachelors,f,other,1,32,3,7,1,0,66,5
+100575,Technology,region_2,Masters & above,f,other,1,43,3,6,1,0,80,10
+100576,Analytics,region_2,Masters & above,f,other,1,42,5,13,1,0,85,10
+100577,HR,region_7,Bachelors,m,other,1,41,3,8,1,0,54,5
+100578,Technology,region_11,Bachelors,f,other,1,27,3,2,0,0,84,1
+100579,Finance,region_2,Bachelors,m,sourcing,1,41,4,9,0,0,56,0
+100580,Technology,region_23,Bachelors,m,other,1,26,5,2,1,0,76,5
+100581,Analytics,region_34,Bachelors,m,other,1,35,5,10,1,0,85,10
+100582,Sales & Marketing,region_28,Bachelors,f,sourcing,1,28,1,3,0,0,58,0
+100583,HR,region_2,Bachelors,f,sourcing,1,50,1,9,0,0,46,0
+100584,Sales & Marketing,region_22,Masters & above,m,other,1,29,3,1,1,1,46,5
+100585,Sales & Marketing,region_7,Masters & above,m,other,2,37,1,10,0,0,49,0
+100586,Operations,region_4,Bachelors,m,other,2,35,3,8,1,0,64,5
+100587,Sales & Marketing,region_28,Masters & above,f,other,1,29,4,4,0,0,51,0
+100588,Sales & Marketing,region_6,Bachelors,f,sourcing,1,36,5,8,0,0,47,0
+100589,Technology,region_5,Below Secondary,m,other,1,22,2,1,1,0,79,5
+100590,Finance,region_2,Bachelors,m,other,1,36,3,3,0,0,55,0
+100591,Operations,region_22,Bachelors,f,other,2,37,4,2,0,0,71,0
+100592,Analytics,region_29,Bachelors,m,other,1,30,3,4,0,0,83,1
+100593,Finance,region_2,Bachelors,m,sourcing,2,26,2,2,0,0,54,0
+100594,Procurement,region_13,Bachelors,f,sourcing,2,28,5,3,1,0,68,5
+100595,Operations,region_15,Bachelors,m,other,1,49,4,9,0,0,61,0
+100596,Analytics,region_22,Bachelors,m,other,1,29,5,2,1,0,84,10
+100597,Procurement,region_21,Masters & above,m,other,1,35,5,7,1,0,70,5
+100598,Technology,region_24,Bachelors,m,other,1,32,2,6,0,0,90,1
+100599,Sales & Marketing,region_28,Masters & above,f,sourcing,1,42,3,4,0,0,54,0
+100600,Technology,region_4,Masters & above,m,other,1,37,4,5,0,0,76,0
+100601,Sales & Marketing,region_29,Bachelors,m,other,1,28,5,2,0,0,45,0
+100602,Procurement,region_15,Bachelors,m,other,1,38,4,2,1,1,97,10
+100603,Analytics,region_2,Bachelors,m,sourcing,2,39,4,5,1,0,86,10
+100604,Analytics,region_27,Bachelors,m,other,1,28,5,2,1,0,87,10
+100605,Operations,region_14,Bachelors,m,other,2,34,3,10,0,0,60,0
+100606,Operations,region_22,Bachelors,f,other,1,37,3,3,0,0,63,0
+100607,Sales & Marketing,region_2,Masters & above,f,sourcing,2,38,1,6,0,0,51,0
+100608,Finance,region_2,Bachelors,f,sourcing,1,24,5,2,1,0,57,5
+100609,Sales & Marketing,region_11,Masters & above,m,other,1,36,3,7,0,0,52,0
+100610,Procurement,region_2,Bachelors,m,other,1,41,2,15,0,0,70,0
+100611,Operations,region_22,Bachelors,m,other,2,29,2,1,0,0,60,0
+100612,Technology,region_2,Masters & above,f,sourcing,2,59,1,15,0,0,76,0
+100613,Sales & Marketing,region_12,Bachelors,f,sourcing,1,29,3,1,0,0,48,0
+100614,Operations,region_22,Bachelors,f,other,1,29,5,3,0,0,57,0
+100615,Sales & Marketing,region_13,Bachelors,f,sourcing,3,31,1,5,0,0,51,0
+100616,Sales & Marketing,region_28,Bachelors,m,sourcing,1,31,5,7,0,0,51,0
+100617,Sales & Marketing,region_25,Bachelors,f,sourcing,1,31,4,3,0,0,50,0
+100618,Sales & Marketing,region_26,Bachelors,m,other,1,32,3,4,1,0,47,5
+100619,Procurement,region_26,Bachelors,f,other,1,49,4,8,0,0,68,0
+100620,Operations,region_2,Masters & above,m,other,1,42,5,11,0,0,59,0
+100621,Sales & Marketing,region_11,Bachelors,m,other,1,32,5,7,1,0,49,5
+100622,Analytics,region_11,Bachelors,m,other,1,30,3,4,0,0,80,1
+100623,Analytics,region_4,Bachelors,m,other,1,32,5,8,0,0,86,1
+100624,Procurement,region_1,Bachelors,f,sourcing,2,29,1,2,0,0,74,0
+100625,Sales & Marketing,region_2,Bachelors,m,sourcing,2,31,1,6,0,0,50,0
+100626,Sales & Marketing,region_20,Bachelors,m,other,2,27,3,1,1,1,48,5
+100627,Operations,region_34,Bachelors,m,other,1,30,3,2,1,0,58,5
+100628,Operations,region_2,Bachelors,f,sourcing,1,48,4,8,1,0,60,5
+100629,Sales & Marketing,region_2,Bachelors,m,sourcing,1,39,5,12,0,0,50,0
+100630,Analytics,region_23,Masters & above,m,sourcing,1,35,2,7,1,0,87,10
+100631,Technology,region_2,Bachelors,f,other,1,47,4,7,0,0,78,0
+100632,Sales & Marketing,region_31,Masters & above,m,other,1,46,5,3,1,0,51,5
+100633,Procurement,region_31,Masters & above,f,other,1,37,3,2,1,1,97,10
+100634,Operations,region_19,Bachelors,m,other,1,26,5,6,1,0,60,5
+100635,Technology,region_6,Bachelors,f,sourcing,1,31,5,4,1,0,87,10
+100636,Operations,region_27,Bachelors,m,other,1,26,3,1,1,0,56,5
+100637,Procurement,region_20,Bachelors,f,other,1,28,2,4,0,0,69,0
+100638,Operations,region_4,Masters & above,f,sourcing,2,36,1,6,1,1,65,5
+100639,Technology,region_24,Masters & above,f,other,1,35,1,7,0,0,80,1
+100640,Analytics,region_13,Bachelors,m,sourcing,1,34,4,9,0,0,84,1
+100641,Analytics,region_2,Masters & above,m,sourcing,2,58,5,6,1,0,81,10
+100642,Sales & Marketing,region_22,Masters & above,m,sourcing,1,29,2,5,1,0,50,5
+100643,Operations,region_13,Bachelors,m,other,1,36,2,9,0,0,59,0
+100644,R&D,region_2,Bachelors,m,sourcing,1,30,1,4,0,0,84,1
+100645,HR,region_2,Masters & above,f,other,1,40,3,10,0,0,49,0
+100646,Procurement,region_15,Bachelors,m,other,1,38,3,4,1,0,71,5
+100647,Sales & Marketing,region_11,Bachelors,m,other,1,36,2,5,0,0,52,0
+100648,Sales & Marketing,region_2,Bachelors,m,other,1,41,4,9,0,0,49,0
+100649,Procurement,region_22,Masters & above,m,other,1,33,5,5,1,0,66,5
+100650,Technology,region_31,Bachelors,m,sourcing,1,29,1,4,0,0,79,0
+100651,Operations,region_22,Masters & above,f,other,1,33,4,8,1,0,81,10
+100652,Sales & Marketing,region_7,Masters & above,f,other,1,41,1,2,0,0,47,0
+100653,Procurement,region_2,Masters & above,m,other,2,41,3,10,0,0,67,0
+100654,Operations,region_13,Masters & above,m,other,1,41,3,4,0,0,60,0
+100655,Technology,region_7,Bachelors,f,other,1,28,4,5,1,0,76,5
+100656,Sales & Marketing,region_7,Masters & above,f,sourcing,1,32,5,7,1,0,53,5
+100657,Technology,region_8,Bachelors,m,other,1,25,3,3,0,0,77,0
+100658,Technology,region_13,Below Secondary,f,sourcing,1,24,2,2,0,0,85,1
+100659,Sales & Marketing,region_7,Bachelors,m,other,1,53,4,10,1,0,45,5
+100660,Sales & Marketing,region_25,Masters & above,m,sourcing,1,38,5,12,1,0,49,5
+100661,Legal,region_22,Bachelors,m,sourcing,1,31,3,3,0,0,62,0
+100662,Sales & Marketing,region_2,Bachelors,f,other,2,51,3,17,0,0,52,0
+100663,Operations,region_14,Masters & above,m,sourcing,1,42,3,4,0,0,59,0
+100664,Operations,region_2,Masters & above,m,other,1,56,5,16,1,0,59,5
+100665,Sales & Marketing,region_4,Bachelors,m,other,1,48,4,9,0,0,46,0
+100666,Procurement,region_2,Masters & above,m,sourcing,1,56,3,2,1,0,65,5
+100667,Technology,region_26,Bachelors,m,referred,1,27,3,1,0,0,79,0
+100668,R&D,region_26,Bachelors,m,other,1,31,4,6,0,0,84,1
+100669,Procurement,region_22,Masters & above,m,sourcing,2,33,3,3,0,0,72,0
+100670,Technology,region_7,Masters & above,m,referred,1,36,4,4,1,0,80,10
+100671,Procurement,region_11,Masters & above,f,other,1,38,5,4,1,0,70,5
+100672,Procurement,region_5,Bachelors,m,other,1,36,2,4,0,0,64,0
+100673,Sales & Marketing,region_2,Bachelors,f,sourcing,1,50,4,21,1,0,49,5
+100674,Sales & Marketing,region_14,Bachelors,m,sourcing,1,40,1,3,0,0,47,0
+100675,Finance,region_28,Below Secondary,f,other,1,26,1,2,1,0,54,5
+100676,Operations,region_20,Bachelors,m,sourcing,1,27,3,3,0,0,58,0
+100677,Sales & Marketing,region_27,Masters & above,m,other,1,54,5,21,0,0,53,0
+100678,Finance,region_26,Bachelors,f,other,1,29,4,7,0,0,67,0
+100679,Technology,region_26,Bachelors,m,sourcing,1,24,2,1,1,0,77,5
+100680,HR,region_4,Bachelors,f,other,1,31,3,5,0,0,51,0
+100681,Sales & Marketing,region_13,Bachelors,m,other,1,31,1,4,0,0,47,0
+100682,Procurement,region_2,Bachelors,f,other,3,31,2,9,0,0,65,0
+100683,Finance,region_29,Bachelors,m,sourcing,1,30,4,7,0,0,61,0
+100684,Procurement,region_7,Bachelors,m,sourcing,1,36,3,2,0,0,68,0
+100685,Finance,region_2,Bachelors,m,other,1,33,5,3,1,0,57,5
+100686,Analytics,region_22,Bachelors,m,sourcing,2,36,3,3,0,0,85,1
+100687,Technology,region_7,Masters & above,m,other,1,51,4,11,0,0,75,0
+100688,Technology,region_22,Bachelors,m,sourcing,1,29,5,2,1,0,76,5
+100689,Sales & Marketing,region_16,Bachelors,m,sourcing,2,40,5,12,1,0,50,5
+100690,Sales & Marketing,region_17,Masters & above,m,sourcing,1,40,3,10,0,0,46,0
+100691,Sales & Marketing,region_4,Masters & above,f,other,1,34,3,4,0,0,52,0
+100692,Analytics,region_24,Bachelors,m,other,1,37,3,10,0,0,82,1
+100693,Operations,region_11,Bachelors,m,sourcing,1,30,5,6,1,0,58,5
+100694,Sales & Marketing,region_7,Bachelors,m,sourcing,1,31,4,4,1,0,47,5
+100695,Operations,region_27,Bachelors,f,sourcing,1,26,5,3,0,0,56,0
+100696,Sales & Marketing,region_17,Bachelors,m,sourcing,1,40,5,6,1,0,50,5
+100697,Procurement,region_7,Bachelors,f,other,1,49,3,7,1,0,64,5
+100698,Procurement,region_27,Bachelors,m,other,1,27,2,5,0,0,65,0
+100699,Sales & Marketing,region_9,Masters & above,m,sourcing,1,37,5,3,0,0,47,0
+100700,Technology,region_17,Bachelors,m,sourcing,1,25,3,1,0,0,80,1
+100701,Technology,region_29,Masters & above,m,sourcing,1,30,1,3,0,0,83,1
+100702,Procurement,region_4,Masters & above,m,other,1,41,3,4,0,0,76,0
+100703,Finance,region_20,Bachelors,f,other,1,29,4,6,1,0,58,5
+100704,Operations,region_20,Bachelors,m,other,1,33,3,7,1,1,62,5
+100705,Sales & Marketing,region_17,Masters & above,m,sourcing,1,34,4,6,1,0,50,5
+100706,Analytics,region_13,Bachelors,m,sourcing,1,34,3,3,1,0,87,10
+100707,Operations,region_22,Bachelors,m,other,1,52,1,10,0,0,61,0
+100708,Sales & Marketing,region_34,Bachelors,m,sourcing,1,30,2,3,0,0,50,0
+100709,Analytics,region_2,Masters & above,m,sourcing,2,34,4,7,0,0,87,1
+100710,Sales & Marketing,region_2,Bachelors,m,sourcing,2,43,1,14,0,0,52,0
+100711,Technology,region_17,Bachelors,m,other,1,29,3,1,1,0,85,10
+100712,Sales & Marketing,region_2,Bachelors,f,sourcing,1,35,3,3,1,0,52,5
+100713,Technology,region_22,Masters & above,m,other,4,40,3,12,0,0,77,0
+100714,Technology,region_23,Bachelors,m,sourcing,2,33,4,9,0,0,83,1
+100715,Sales & Marketing,region_8,Masters & above,m,other,1,30,3,2,1,0,55,5
+100716,Sales & Marketing,region_14,Bachelors,f,sourcing,2,42,1,3,1,0,46,5
+100717,Sales & Marketing,region_22,Bachelors,m,sourcing,3,29,1,3,0,0,51,0
+100718,Analytics,region_22,Bachelors,m,other,1,25,1,1,0,0,88,1
+100719,Analytics,region_26,Bachelors,m,sourcing,1,26,5,4,1,0,90,10
+100720,Sales & Marketing,region_31,Bachelors,m,other,1,27,2,3,0,0,52,0
+100721,Operations,region_13,Bachelors,m,other,1,34,5,5,1,0,66,5
+100722,Sales & Marketing,region_31,Bachelors,m,sourcing,1,26,4,5,0,0,45,0
+100723,Technology,region_2,Bachelors,f,other,1,52,5,18,0,0,80,1
+100724,Sales & Marketing,region_7,Bachelors,m,other,1,26,5,2,1,0,54,5
+100725,Analytics,region_34,Bachelors,m,sourcing,3,27,3,2,0,0,83,1
+100726,Analytics,region_22,Masters & above,m,other,1,31,2,1,1,0,84,10
+100727,Operations,region_23,Bachelors,m,other,1,33,4,8,1,0,59,5
+100728,Sales & Marketing,region_2,Bachelors,m,sourcing,1,36,5,4,1,0,49,5
+100729,Technology,region_2,Masters & above,f,other,1,57,1,26,0,0,76,0
+100730,Sales & Marketing,region_2,Bachelors,m,other,2,46,1,7,0,0,49,0
+100731,Sales & Marketing,region_19,Bachelors,m,sourcing,1,30,2,3,0,0,50,0
+100732,Operations,region_2,Below Secondary,m,other,1,21,1,1,1,0,56,5
+100733,Technology,region_4,Bachelors,m,sourcing,1,26,1,1,1,0,85,10
+100734,Technology,region_7,Masters & above,m,sourcing,2,40,3,6,0,0,81,1
+100735,Technology,region_23,Bachelors,m,other,2,32,3,6,0,0,79,0
+100736,Finance,region_22,Masters & above,f,sourcing,1,36,3,2,1,0,61,5
+100737,Legal,region_2,Bachelors,m,other,1,28,2,2,0,0,62,0
+100738,Operations,region_22,Bachelors,f,sourcing,1,29,5,4,1,0,56,5
+100739,Sales & Marketing,region_2,Masters & above,m,sourcing,1,38,4,4,0,0,49,0
+100740,Technology,region_4,Bachelors,m,other,1,31,2,4,1,0,78,5
+100741,Sales & Marketing,region_22,Bachelors,m,other,1,29,1,4,0,0,46,0
+100742,Technology,region_5,Below Secondary,m,other,1,23,1,1,0,0,81,1
+100743,Operations,region_26,Bachelors,m,sourcing,1,41,4,6,1,0,60,5
+100744,Procurement,region_2,Bachelors,m,other,1,29,5,2,1,0,74,5
+100745,Sales & Marketing,region_28,Bachelors,f,other,1,29,2,5,0,0,51,0
+100746,Operations,region_2,Bachelors,m,sourcing,1,28,3,3,0,0,59,0
+100747,Analytics,region_29,Bachelors,m,other,2,28,5,4,1,0,84,10
+100748,Procurement,region_22,Bachelors,f,sourcing,1,31,1,6,0,0,64,0
+100749,Technology,region_4,Masters & above,m,sourcing,1,36,3,4,0,0,76,0
+100750,Operations,region_2,Bachelors,m,other,3,26,3,4,1,0,57,5
+100751,Technology,region_15,Bachelors,m,other,1,29,3,2,0,0,84,1
+100752,Analytics,region_7,Bachelors,m,sourcing,1,32,4,6,0,0,85,1
+100753,Sales & Marketing,region_2,Bachelors,f,other,1,40,1,10,0,0,50,0
+100754,Analytics,region_22,Bachelors,m,sourcing,2,38,4,13,0,0,87,1
+100755,Analytics,region_4,Bachelors,m,other,1,42,5,11,1,0,80,10
+100756,Procurement,region_29,Masters & above,f,other,1,33,3,6,0,0,68,0
+100757,Analytics,region_2,Bachelors,m,other,1,31,5,5,1,0,92,10
+100758,Operations,region_3,Masters & above,f,sourcing,1,35,3,4,0,0,58,0
+100759,HR,region_2,Masters & above,f,sourcing,1,58,5,6,1,0,51,5
+100760,Sales & Marketing,region_28,Bachelors,f,sourcing,1,26,2,4,0,0,48,0
+100761,HR,region_29,Bachelors,f,sourcing,1,33,3,8,1,0,49,5
+100762,Technology,region_7,Bachelors,m,sourcing,1,30,3,3,1,0,80,10
+100763,Technology,region_13,Masters & above,f,sourcing,1,43,3,12,0,0,79,0
+100764,HR,region_17,Bachelors,f,sourcing,1,31,4,7,0,0,48,0
+100765,Analytics,region_29,Bachelors,m,sourcing,1,32,3,5,1,0,86,10
+100766,Technology,region_2,Masters & above,f,sourcing,2,57,2,7,0,0,83,1
+100767,Operations,region_2,Bachelors,f,other,1,54,4,22,0,0,57,0
+100768,Analytics,region_15,Bachelors,m,other,2,37,5,8,1,0,82,10
+100769,R&D,region_22,Masters & above,m,other,2,27,4,5,0,0,86,1
+100770,Operations,region_22,Masters & above,m,sourcing,1,44,3,10,0,0,55,0
+100771,Technology,region_24,Masters & above,f,other,1,37,3,10,0,0,81,1
+100772,Procurement,region_7,Masters & above,m,other,1,48,4,8,0,0,72,0
+100773,Sales & Marketing,region_25,Bachelors,f,other,1,31,3,6,1,0,43,5
+100774,Finance,region_22,Bachelors,f,other,1,28,5,5,1,0,60,5
+100775,Procurement,region_13,Masters & above,f,other,1,34,3,4,0,0,69,0
+100776,Sales & Marketing,region_14,Bachelors,f,sourcing,1,44,1,4,0,0,47,0
+100777,Sales & Marketing,region_12,Bachelors,m,sourcing,1,27,5,2,0,0,50,0
+100778,Operations,region_22,Masters & above,m,referred,1,45,3,4,1,0,57,5
+100779,Sales & Marketing,region_13,Bachelors,m,sourcing,1,24,4,2,0,0,48,0
+100780,Analytics,region_29,Bachelors,m,other,1,37,5,4,0,0,82,1
+100781,Analytics,region_22,Masters & above,m,other,1,27,5,1,1,0,86,10
+100782,Legal,region_22,Bachelors,m,other,1,33,2,1,1,0,59,5
+100783,Sales & Marketing,region_2,Masters & above,f,other,1,31,1,2,1,0,53,5
+100784,Sales & Marketing,region_7,Masters & above,m,sourcing,3,38,3,5,0,0,49,0
+100785,Procurement,region_22,Bachelors,m,other,1,32,5,2,1,0,72,5
+100786,Analytics,region_19,Bachelors,m,other,1,29,3,4,0,0,84,1
+100787,Sales & Marketing,region_15,Bachelors,m,other,1,37,4,9,0,0,50,0
+100788,Operations,region_13,Bachelors,m,other,2,42,3,12,0,0,60,0
+100789,R&D,region_22,Masters & above,m,sourcing,2,32,5,5,1,0,88,10
+100790,Operations,region_13,Bachelors,m,other,1,45,3,3,0,0,60,0
+100791,Analytics,region_29,Bachelors,m,other,1,28,3,7,0,0,83,1
+100792,Technology,region_15,Masters & above,m,sourcing,1,35,1,9,0,0,81,1
+100793,Sales & Marketing,region_4,Bachelors,m,other,3,28,3,5,0,0,48,0
+100794,Operations,region_8,Bachelors,f,other,1,37,1,3,1,0,59,5
+100795,Analytics,region_4,Masters & above,m,other,1,38,4,7,1,0,88,10
+100796,Procurement,region_2,Bachelors,f,sourcing,1,31,1,6,0,0,68,0
+100797,Operations,region_2,Masters & above,m,other,2,43,3,2,0,0,69,0
+100798,Operations,region_23,Bachelors,m,other,1,32,3,2,1,0,62,5
+100799,Procurement,region_2,Below Secondary,m,sourcing,1,24,4,2,1,0,69,5
+100800,Operations,region_2,Masters & above,m,other,1,52,5,8,0,0,59,0
+100801,Technology,region_13,Masters & above,m,other,1,38,5,2,0,0,88,1
+100802,Finance,region_20,Bachelors,m,other,1,35,3,4,0,0,59,0
+100803,Technology,region_31,Masters & above,m,other,1,39,5,4,0,1,81,1
+100804,Procurement,region_7,Bachelors,m,other,1,31,3,5,1,0,65,5
+100805,Operations,region_27,Bachelors,m,sourcing,1,37,3,5,0,0,57,0
+100806,Analytics,region_21,Masters & above,m,sourcing,1,27,1,1,0,0,80,1
+100807,Operations,region_30,Masters & above,f,other,1,37,5,9,1,0,56,5
+100808,Analytics,region_16,Bachelors,m,other,2,31,3,5,1,0,81,10
+100809,Analytics,region_22,Bachelors,m,sourcing,1,28,5,4,1,0,85,10
+100810,Technology,region_15,Bachelors,m,other,1,26,3,3,0,0,77,0
+100811,Finance,region_2,Masters & above,m,other,1,49,4,7,1,0,62,5
+100812,Procurement,region_13,Bachelors,f,other,1,34,3,9,0,0,68,0
+100813,Finance,region_4,Masters & above,f,other,1,38,3,2,0,0,58,0
+100814,Sales & Marketing,region_13,Masters & above,m,other,1,52,4,4,1,0,51,5
+100815,Sales & Marketing,region_22,Bachelors,m,sourcing,3,31,1,7,1,0,50,5
+100816,Technology,region_2,Bachelors,f,other,1,24,1,2,0,0,82,1
+100817,Analytics,region_22,Masters & above,f,sourcing,2,26,5,3,1,0,86,10
+100818,HR,region_7,Bachelors,m,other,1,31,2,5,0,0,66,0
+100819,Technology,region_26,Bachelors,f,other,1,43,1,4,1,0,86,10
+100820,Procurement,region_4,Masters & above,m,other,4,37,3,6,0,0,68,0
+100821,Sales & Marketing,region_2,Masters & above,m,sourcing,1,37,4,4,0,0,50,0
+100822,HR,region_2,Masters & above,m,other,1,37,5,9,1,0,53,5
+100823,Operations,region_29,Bachelors,m,other,1,32,5,8,1,0,58,5
+100824,Sales & Marketing,region_26,Bachelors,f,other,1,30,4,2,0,0,53,0
+100825,Procurement,region_20,Bachelors,f,other,1,30,5,4,1,0,71,5
+100826,Sales & Marketing,region_7,Bachelors,m,sourcing,1,27,4,3,0,0,50,0
+100827,Sales & Marketing,region_2,Bachelors,m,other,2,36,4,8,0,0,45,0
+100828,Technology,region_9,Bachelors,m,sourcing,4,30,3,2,0,0,78,0
+100829,Procurement,region_2,Masters & above,m,sourcing,1,49,4,19,0,0,73,0
+100830,Sales & Marketing,region_10,Masters & above,m,other,1,38,5,5,0,0,63,0
+100831,Sales & Marketing,region_30,Bachelors,m,other,1,29,3,6,0,0,51,0
+100832,Technology,region_33,Bachelors,m,other,1,48,3,6,1,0,81,10
+100833,Sales & Marketing,region_21,Bachelors,m,other,1,29,3,1,0,0,53,0
+100834,Analytics,region_2,Masters & above,m,other,1,59,4,13,0,0,82,1
+100835,Operations,region_7,Bachelors,f,other,1,36,5,5,1,0,62,5
+100836,Finance,region_13,Bachelors,m,other,1,28,3,3,0,0,59,0
+100837,Procurement,region_22,Bachelors,m,other,2,27,4,2,1,0,68,5
+100838,Operations,region_2,Bachelors,m,sourcing,1,25,3,2,0,0,62,0
+100839,Sales & Marketing,region_26,Bachelors,m,other,1,30,5,6,1,0,52,5
+100840,HR,region_27,Below Secondary,m,other,1,23,3,1,0,0,51,0
+100841,HR,region_15,Bachelors,f,sourcing,1,28,3,1,0,0,50,0
+100842,Sales & Marketing,region_2,Bachelors,m,other,1,38,4,5,1,0,48,5
+100843,Sales & Marketing,region_22,Bachelors,m,sourcing,1,30,3,1,1,0,45,5
+100844,HR,region_2,Bachelors,f,other,1,53,4,21,0,0,53,0
+100845,Sales & Marketing,region_8,Masters & above,m,other,1,35,3,8,0,0,45,0
+100846,HR,region_2,Bachelors,m,other,1,45,3,14,1,0,53,5
+100847,Sales & Marketing,region_26,Bachelors,m,sourcing,1,40,1,8,0,0,51,0
+100848,Operations,region_32,Bachelors,m,other,1,39,3,8,0,0,58,0
+100849,Analytics,region_13,Bachelors,m,other,1,46,4,6,0,0,82,1
+100850,Technology,region_5,Bachelors,m,sourcing,2,29,3,3,0,0,79,0
+100851,Analytics,region_6,Bachelors,m,other,1,28,4,1,1,0,84,10
+100852,Technology,region_15,Bachelors,f,other,1,34,4,6,1,0,82,10
+100853,Sales & Marketing,region_9,Bachelors,m,other,1,23,3,1,1,0,47,5
+100854,Sales & Marketing,region_14,Bachelors,m,other,1,38,5,3,0,0,51,0
+100855,HR,region_22,Masters & above,m,sourcing,1,32,3,5,0,0,52,0
+100856,Operations,region_26,Bachelors,m,other,1,33,3,5,1,0,58,5
+100857,Procurement,region_2,Bachelors,f,other,1,39,4,9,0,0,70,0
+100858,Procurement,region_4,Masters & above,m,other,4,36,3,6,0,0,71,0
+100859,Operations,region_22,Bachelors,m,sourcing,2,33,4,4,0,0,59,0
+100860,Sales & Marketing,region_2,Bachelors,f,other,1,29,4,6,1,0,45,5
+100861,R&D,region_7,Bachelors,f,other,1,32,3,5,0,0,85,1
+100862,Sales & Marketing,region_28,Bachelors,f,sourcing,1,26,3,2,1,0,46,5
+100863,Analytics,region_32,Bachelors,m,sourcing,1,38,3,3,0,0,82,1
+100864,Procurement,region_22,Masters & above,m,sourcing,1,42,2,15,0,0,70,0
+100865,Operations,region_32,Bachelors,f,sourcing,1,30,5,6,0,0,60,0
+100866,Analytics,region_22,Bachelors,m,sourcing,2,28,3,1,0,0,83,1
+100867,Sales & Marketing,region_14,Bachelors,m,other,1,36,4,6,0,0,47,0
+100868,Procurement,region_2,Bachelors,f,other,1,56,5,6,0,0,84,1
+100869,Sales & Marketing,region_14,Bachelors,f,other,1,30,3,5,0,0,51,0
+100870,Sales & Marketing,region_15,Bachelors,m,other,2,25,3,1,0,0,50,0
+100871,HR,region_7,Bachelors,f,other,1,29,5,6,1,0,49,5
+100872,Sales & Marketing,region_7,Bachelors,m,other,1,36,2,7,0,0,47,0
+100873,Technology,region_14,Bachelors,f,other,1,39,3,4,0,0,80,1
+100874,Analytics,region_26,Bachelors,m,sourcing,1,30,5,4,1,0,84,10
+100875,R&D,region_2,Bachelors,m,other,2,42,3,9,0,0,84,1
+100876,Sales & Marketing,region_26,Bachelors,m,sourcing,2,37,4,9,0,0,49,0
+100877,Procurement,region_22,Bachelors,m,sourcing,1,31,2,2,1,0,66,5
+100878,Sales & Marketing,region_28,Masters & above,m,sourcing,1,32,4,6,1,0,48,5
+100879,Operations,region_15,Masters & above,m,other,1,40,5,11,1,0,59,5
+100880,Finance,region_2,Bachelors,m,sourcing,2,39,5,10,1,0,58,5
+100881,Sales & Marketing,region_26,Bachelors,m,other,1,40,4,10,1,0,47,5
+100882,HR,region_22,Bachelors,m,sourcing,1,23,1,2,0,0,45,0
+100883,Operations,region_2,Bachelors,m,sourcing,2,28,3,1,0,0,60,0
+100884,Sales & Marketing,region_7,Bachelors,m,other,1,37,2,4,0,0,51,0
+100885,Finance,region_2,Below Secondary,m,sourcing,1,23,3,1,1,0,58,5
+100886,Operations,region_2,Bachelors,m,sourcing,1,37,3,9,0,0,61,0
+100887,Legal,region_22,Bachelors,m,referred,1,29,5,3,1,0,54,5
+100888,Operations,region_32,Bachelors,f,other,1,38,4,10,0,0,55,0
+100889,Operations,region_22,Bachelors,m,other,2,39,4,10,0,0,57,0
+100890,Sales & Marketing,region_22,Masters & above,m,other,2,38,5,7,1,0,48,5
+100891,Procurement,region_13,Bachelors,m,sourcing,1,34,3,4,0,0,69,0
+100892,Procurement,region_15,Bachelors,f,other,1,48,5,21,0,0,69,0
+100893,R&D,region_26,Masters & above,m,other,1,29,5,4,0,0,82,1
+100894,Technology,region_13,Masters & above,f,other,1,37,4,7,1,0,81,10
+100895,Sales & Marketing,region_22,Bachelors,m,other,2,23,3,1,1,0,53,5
+100896,Operations,region_2,Bachelors,f,other,1,47,5,2,1,0,63,5
+100897,Sales & Marketing,region_14,Bachelors,m,sourcing,1,31,1,3,0,0,50,0
+100898,Analytics,region_16,Bachelors,m,other,1,28,3,4,0,0,83,1
+100899,Finance,region_28,Masters & above,f,other,2,32,4,6,1,0,57,5
+100900,Procurement,region_27,Bachelors,f,other,1,33,2,4,1,0,71,5
+100901,Legal,region_6,Bachelors,m,sourcing,2,28,3,1,1,0,58,5
+100902,Legal,region_2,Bachelors,m,other,1,32,3,1,1,0,62,5
+100903,Operations,region_6,Bachelors,m,sourcing,1,34,3,10,0,0,67,0
+100904,Sales & Marketing,region_7,Bachelors,m,sourcing,1,38,5,3,1,0,52,5
+100905,Technology,region_33,Bachelors,m,other,1,28,4,5,0,0,79,0
+100906,Analytics,region_24,Masters & above,m,other,1,34,3,3,0,0,87,1
+100907,Procurement,region_2,Bachelors,m,other,1,44,2,16,0,0,70,0
+100908,Procurement,region_20,Bachelors,m,sourcing,1,28,3,4,0,0,69,0
+100909,Operations,region_27,Bachelors,f,other,1,31,1,5,1,0,61,5
+100910,Analytics,region_29,Bachelors,m,other,1,34,2,5,0,0,84,1
+100911,Procurement,region_2,Below Secondary,m,other,1,22,3,2,1,0,71,5
+100912,Procurement,region_2,Bachelors,m,other,1,20,3,1,0,0,76,0
+100913,Procurement,region_11,Bachelors,f,other,1,32,3,7,1,0,66,5
+100914,Technology,region_2,Masters & above,f,other,1,43,3,6,1,0,80,10
+100915,Analytics,region_2,Masters & above,f,other,1,42,5,13,1,0,85,10
+100916,HR,region_7,Bachelors,m,other,1,41,3,8,1,0,54,5
+100917,Technology,region_11,Bachelors,f,other,1,27,3,2,0,0,84,1
+100918,Finance,region_2,Bachelors,m,sourcing,1,41,4,9,0,0,56,0
+100919,Technology,region_23,Bachelors,m,other,1,26,5,2,1,0,76,5
+100920,Analytics,region_34,Bachelors,m,other,1,35,5,10,1,0,85,10
+100921,Sales & Marketing,region_28,Bachelors,f,sourcing,1,28,1,3,0,0,58,0
+100922,HR,region_2,Bachelors,f,sourcing,1,50,1,9,0,0,46,0
+100923,Sales & Marketing,region_22,Masters & above,m,other,1,29,3,1,1,1,46,5
+100924,Sales & Marketing,region_7,Masters & above,m,other,2,37,1,10,0,0,49,0
+100925,Operations,region_4,Bachelors,m,other,2,35,3,8,1,0,64,5
+100926,Sales & Marketing,region_28,Masters & above,f,other,1,29,4,4,0,0,51,0
+100927,Sales & Marketing,region_6,Bachelors,f,sourcing,1,36,5,8,0,0,47,0
+100928,Technology,region_5,Below Secondary,m,other,1,22,2,1,1,0,79,5
+100929,Finance,region_2,Bachelors,m,other,1,36,3,3,0,0,55,0
+100930,Operations,region_22,Bachelors,f,other,2,37,4,2,0,0,71,0
+100931,Analytics,region_29,Bachelors,m,other,1,30,3,4,0,0,83,1
+100932,Finance,region_2,Bachelors,m,sourcing,2,26,2,2,0,0,54,0
+100933,Procurement,region_13,Bachelors,f,sourcing,2,28,5,3,1,0,68,5
+100934,Operations,region_15,Bachelors,m,other,1,49,4,9,0,0,61,0
+100935,Analytics,region_22,Bachelors,m,other,1,29,5,2,1,0,84,10
+100936,Procurement,region_21,Masters & above,m,other,1,35,5,7,1,0,70,5
+100937,Technology,region_24,Bachelors,m,other,1,32,2,6,0,0,90,1
+100938,Sales & Marketing,region_28,Masters & above,f,sourcing,1,42,3,4,0,0,54,0
+100939,Technology,region_4,Masters & above,m,other,1,37,4,5,0,0,76,0
+100940,Sales & Marketing,region_29,Bachelors,m,other,1,28,5,2,0,0,45,0
+100941,Procurement,region_15,Bachelors,m,other,1,38,4,2,1,1,97,10
+100942,Analytics,region_2,Bachelors,m,sourcing,2,39,4,5,1,0,86,10
+100943,Analytics,region_27,Bachelors,m,other,1,28,5,2,1,0,87,10
+100944,Operations,region_14,Bachelors,m,other,2,34,3,10,0,0,60,0
+100945,Operations,region_22,Bachelors,f,other,1,37,3,3,0,0,63,0
+100946,Sales & Marketing,region_2,Masters & above,f,sourcing,2,38,1,6,0,0,51,0
+100947,Finance,region_2,Bachelors,f,sourcing,1,24,5,2,1,0,57,5
+100948,Sales & Marketing,region_11,Masters & above,m,other,1,36,3,7,0,0,52,0
+100949,Procurement,region_2,Bachelors,m,other,1,41,2,15,0,0,70,0
+100950,Operations,region_22,Bachelors,m,other,2,29,2,1,0,0,60,0
+100951,Technology,region_2,Masters & above,f,sourcing,2,59,1,15,0,0,76,0
+100952,Sales & Marketing,region_12,Bachelors,f,sourcing,1,29,3,1,0,0,48,0
+100953,Operations,region_22,Bachelors,f,other,1,29,5,3,0,0,57,0
+100954,Sales & Marketing,region_13,Bachelors,f,sourcing,3,31,1,5,0,0,51,0
+100955,Sales & Marketing,region_28,Bachelors,m,sourcing,1,31,5,7,0,0,51,0
+100956,Sales & Marketing,region_25,Bachelors,f,sourcing,1,31,4,3,0,0,50,0
+100957,Sales & Marketing,region_26,Bachelors,m,other,1,32,3,4,1,0,47,5
+100958,Procurement,region_26,Bachelors,f,other,1,49,4,8,0,0,68,0
+100959,Operations,region_2,Masters & above,m,other,1,42,5,11,0,0,59,0
+100960,Sales & Marketing,region_11,Bachelors,m,other,1,32,5,7,1,0,49,5
+100961,Analytics,region_11,Bachelors,m,other,1,30,3,4,0,0,80,1
+100962,Analytics,region_4,Bachelors,m,other,1,32,5,8,0,0,86,1
+100963,Procurement,region_1,Bachelors,f,sourcing,2,29,1,2,0,0,74,0
+100964,Sales & Marketing,region_2,Bachelors,m,sourcing,2,31,1,6,0,0,50,0
+100965,Sales & Marketing,region_20,Bachelors,m,other,2,27,3,1,1,1,48,5
+100966,Operations,region_34,Bachelors,m,other,1,30,3,2,1,0,58,5
+100967,Operations,region_2,Bachelors,f,sourcing,1,48,4,8,1,0,60,5
+100968,Sales & Marketing,region_2,Bachelors,m,sourcing,1,39,5,12,0,0,50,0
+100969,Analytics,region_23,Masters & above,m,sourcing,1,35,2,7,1,0,87,10
+100970,Technology,region_2,Bachelors,f,other,1,47,4,7,0,0,78,0
+100971,Sales & Marketing,region_31,Masters & above,m,other,1,46,5,3,1,0,51,5
+100972,Procurement,region_31,Masters & above,f,other,1,37,3,2,1,1,97,10
+100973,Operations,region_19,Bachelors,m,other,1,26,5,6,1,0,60,5
+100974,Technology,region_6,Bachelors,f,sourcing,1,31,5,4,1,0,87,10
+100975,Operations,region_27,Bachelors,m,other,1,26,3,1,1,0,56,5
+100976,Procurement,region_20,Bachelors,f,other,1,28,2,4,0,0,69,0
+100977,Operations,region_4,Masters & above,f,sourcing,2,36,1,6,1,1,65,5
+100978,Technology,region_24,Masters & above,f,other,1,35,1,7,0,0,80,1
+100979,Analytics,region_13,Bachelors,m,sourcing,1,34,4,9,0,0,84,1
+100980,Analytics,region_2,Masters & above,m,sourcing,2,58,5,6,1,0,81,10
+100981,Sales & Marketing,region_22,Masters & above,m,sourcing,1,29,2,5,1,0,50,5
+100982,Operations,region_13,Bachelors,m,other,1,36,2,9,0,0,59,0
+100983,R&D,region_2,Bachelors,m,sourcing,1,30,1,4,0,0,84,1
+100984,HR,region_2,Masters & above,f,other,1,40,3,10,0,0,49,0
+100985,Procurement,region_15,Bachelors,m,other,1,38,3,4,1,0,71,5
+100986,Sales & Marketing,region_11,Bachelors,m,other,1,36,2,5,0,0,52,0
+100987,Sales & Marketing,region_2,Bachelors,m,other,1,41,4,9,0,0,49,0
+100988,Procurement,region_22,Masters & above,m,other,1,33,5,5,1,0,66,5
+100989,Technology,region_31,Bachelors,m,sourcing,1,29,1,4,0,0,79,0
+100990,Operations,region_22,Masters & above,f,other,1,33,4,8,1,0,81,10
+100991,Sales & Marketing,region_7,Masters & above,f,other,1,41,1,2,0,0,47,0
+100992,Procurement,region_2,Masters & above,m,other,2,41,3,10,0,0,67,0
+100993,Operations,region_13,Masters & above,m,other,1,41,3,4,0,0,60,0
+100994,Technology,region_7,Bachelors,f,other,1,28,4,5,1,0,76,5
+100995,Sales & Marketing,region_7,Masters & above,f,sourcing,1,32,5,7,1,0,53,5
+100996,Technology,region_8,Bachelors,m,other,1,25,3,3,0,0,77,0
+100997,Technology,region_13,Below Secondary,f,sourcing,1,24,2,2,0,0,85,1
+100998,Sales & Marketing,region_7,Bachelors,m,other,1,53,4,10,1,0,45,5
+100999,Sales & Marketing,region_25,Masters & above,m,sourcing,1,38,5,12,1,0,49,5
+101000,Legal,region_22,Bachelors,m,sourcing,1,31,3,3,0,0,62,0
+101001,Sales & Marketing,region_2,Bachelors,f,other,2,51,3,17,0,0,52,0
+101002,Operations,region_14,Masters & above,m,sourcing,1,42,3,4,0,0,59,0
+101003,Operations,region_2,Masters & above,m,other,1,56,5,16,1,0,59,5
+101004,Sales & Marketing,region_4,Bachelors,m,other,1,48,4,9,0,0,46,0
+101005,Procurement,region_2,Masters & above,m,sourcing,1,56,3,2,1,0,65,5
+101006,Technology,region_26,Bachelors,m,referred,1,27,3,1,0,0,79,0
+101007,R&D,region_26,Bachelors,m,other,1,31,4,6,0,0,84,1
+101008,Procurement,region_22,Masters & above,m,sourcing,2,33,3,3,0,0,72,0
+101009,Technology,region_7,Masters & above,m,referred,1,36,4,4,1,0,80,10
+101010,Procurement,region_11,Masters & above,f,other,1,38,5,4,1,0,70,5
+101011,Procurement,region_5,Bachelors,m,other,1,36,2,4,0,0,64,0
+101012,Sales & Marketing,region_2,Bachelors,f,sourcing,1,50,4,21,1,0,49,5
+101013,Sales & Marketing,region_14,Bachelors,m,sourcing,1,40,1,3,0,0,47,0
+101014,Finance,region_28,Below Secondary,f,other,1,26,1,2,1,0,54,5
+101015,Operations,region_20,Bachelors,m,sourcing,1,27,3,3,0,0,58,0
+101016,Sales & Marketing,region_27,Masters & above,m,other,1,54,5,21,0,0,53,0
+101017,Finance,region_26,Bachelors,f,other,1,29,4,7,0,0,67,0
